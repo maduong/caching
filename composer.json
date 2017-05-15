@@ -3,6 +3,10 @@
     "description": "Edutalk caching",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/caching/issues",
+        "source": "https://github.com/maduong/caching"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
