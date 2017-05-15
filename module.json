@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-caching",
+    "name": "Caching",
+    "author": "Vuong Pham - <a href=\"https://github.com/vuong.pham\">https://github.com/vuong.pham</a>",
+    "description": "Caching management package.",
+    "namespace": "Edutalk\\Base\\Caching",
+    "autoload": "psr-4"
+}
